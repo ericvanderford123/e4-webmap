@@ -1,6 +1,9 @@
-import folium
-dir(folium)
-map = folium.Map(location=(35.61,-82.44), zoom_start = 10)
-map.save('map1.html')
+MAPNAME='data/map1.html'
+if __name__ == '__main__':
+    import folium
+    dir(folium)
+    map = folium.Map(location=(35.61,-82.44), zoom_start = 10)
+    map.save(MAPNAME)
+
 
 
