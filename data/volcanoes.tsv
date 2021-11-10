@@ -1,5 +1,4 @@
 "Search Parameters"	"Number"	"Volcano Name"	"Country"	"Location"	"Latitude"	"Longitude"	"Elevation (m)"	"Type"	"Status"	"Last Known Eruption"
-"[]"										
 	"0500-01="	"St. Andrew Strait"	"Papua New Guinea"	"Admiralty Is-SW Paci"	-2.38	147.35	270	"Complex volcano"	"Historical"	"D2"
 	"0500-02-"	"Baluan"	"United States"	"Admiralty Is-SW Paci"	-2.57	147.28	254	"Stratovolcano"	"Holocene"	"U"
 	"0500-03-"	"Central Bismarck Sea"	"United States"	"Admiralty Is-SW Paci"	-3.03	147.78	-1300	"Submarine volcano"	"Hydrophonic"	"D1"
